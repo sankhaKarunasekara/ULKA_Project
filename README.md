@@ -14,8 +14,7 @@ each folder statring with ps2 is a set of images we recieved. inside the folder 
 ### Reports_Palimanary
 If ps2 images yet to be committed to the reposotory, please upload your MPC report files to this folder. under following format,
 
->imagesetname_yourname.txt
-
+`<imagesetname>_<yourname>.txt`
 `exapmple: ps2-20181101_3_set020_pulasthi.txt`
 
 ### Reports_Staging
