@@ -16,6 +16,6 @@ exapmple: ps2-20181101_3_set020_pulasthi.txt
 ### Reports_Staging
 MPC reports that are currenlty processing in order to submit.
 
-## Reports_Submitted
+### Reports_Submitted
 MPC reports already submitted for the evaluation.
 
