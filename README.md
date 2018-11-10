@@ -1,6 +1,11 @@
 # ULKA_Project
 main belt asteroid finding campaign by IASC
 
+## useful links
+
+image set folder: http://iasc.hsutx.edu/iasc/international/IASC_103/
+minor planet center report spec: https://minorplanetcenter.net//iau/info/OpticalObs.html
+
 ## Project Structure
 
 ### PS2 folders
