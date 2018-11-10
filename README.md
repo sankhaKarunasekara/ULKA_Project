@@ -1,14 +1,20 @@
 # ULKA_Project
 main belt asteroid finding campaign by IASC
 
-## Structure
+## Project Structure
 
 ### PS2 folders
-each folder statring with ps2 is a set of images we recieved. inside the folder there are images and the palaminary reports submitted by each 
-member of the group.
+each folder statring with ps2 is a set of images we recieved. inside the folder there are images and the palaminary reports submitted by each member of the group.
 
-### Staging_Reports
+## Reports_Palimanary
+If ps2 images yet to be committed to the reposotory, please upload your MPC report files to this folder. under following format,
+
+<imagesetname>_<yourname>.txt
+exapmple: ps2-20181101_3_set020_pulasthi.txt
+
+### Reports_Staging
 MPC reports that are currenlty processing in order to submit.
 
-## Submitted_Reports
+## Reports_Submitted
 MPC reports already submitted for the evaluation.
+
