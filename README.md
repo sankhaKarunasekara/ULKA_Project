@@ -3,8 +3,8 @@ main belt asteroid finding campaign by IASC
 
 ## useful links
 
-image set folder: http://iasc.hsutx.edu/iasc/international/IASC_103/
-minor planet center report spec: https://minorplanetcenter.net//iau/info/OpticalObs.html
+1. image set folder: http://iasc.hsutx.edu/iasc/international/IASC_103/
+2. minor planet center report spec: https://minorplanetcenter.net//iau/info/OpticalObs.html
 
 ## Project Structure
 
