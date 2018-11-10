@@ -1,0 +1,12 @@
+COD F51
+OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
+MEA sithum De Zoysa
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2018.11.09 23:20:32
+NET PPMXL
+     
+No moving objects detected
+
+(image set date 7-11-2018)
+
+image set ps2-20181101_5_set155
