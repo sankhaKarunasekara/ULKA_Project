@@ -1,6 +1,9 @@
 # ULKA_Project
 main belt asteroid finding campaign by IASC
 
+### Team Members
+MEA S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala (ULKA, Sri Lanka)
+
 ## useful links
 
 1. Image set folder: http://iasc.hsutx.edu/iasc/international/IASC_103/
