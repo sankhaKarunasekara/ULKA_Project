@@ -2,7 +2,7 @@
 main belt asteroid finding campaign by IASC
 
 ### Team Members
-MEA S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala (ULKA, Sri Lanka)
+S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala (ULKA, Sri Lanka)
 
 ## useful links
 
