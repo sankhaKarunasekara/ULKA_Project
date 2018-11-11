@@ -5,7 +5,7 @@ TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
 ACK MPCReport file updated <TIME>
 NET PPMXL
 
- Image Set <Image Set Name>
+ Image Set ps2-20181102_4_set086
 
-//Records
+	 No new moving objects detected
 ----- end -----
