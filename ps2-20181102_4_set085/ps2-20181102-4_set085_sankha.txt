@@ -1,0 +1,12 @@
+COD F51
+OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
+MEA T. Vorobjov, PS1 Science Consortium
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2018.11.12 11:26:44
+NET PPMXL
+    
+     ULK0001  C2018 11 02.41725102 47 13.154+03 46 20.72         20.2 R      F51
+     ULK0001  C2018 11 02.43080502 47 12.458+03 46 17.58         19.5 R      F51
+     ULK0001  C2018 11 02.44431302 47 11.772+03 46 14.54         19.4 R      F51
+     ULK0001  C2018 11 02.45775202 47 11.078+03 46 11.26         20.1 R      F51
+----- end -----
