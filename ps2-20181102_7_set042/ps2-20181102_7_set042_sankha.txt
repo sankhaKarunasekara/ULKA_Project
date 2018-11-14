@@ -1,0 +1,11 @@
+COD F51
+OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
+MEA S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjala (ULKA, Sri Lanka)
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2018.11.14 22:45:19
+NET PPMXL
+
+ Image Set ps2-20181102_4_set042
+
+	 No new moving objects detected
+----- end -----
