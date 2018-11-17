@@ -2,7 +2,7 @@
 
 ### view graphs of a protential astroid.
 
-sankhakarunasekara.github.io/ULKA_Project
+link: graphs [sankhakarunasekara.github.io/ULKA_Project]
 
 
 
