@@ -1,0 +1,13 @@
+COD F51
+OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
+MEA Sithum Gunarathne
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2018.11.16 07:45:37
+NET PPMXL  
+     B9073         C2018 11 02.41866403 03 52.367+03 55 46.43         17.7 R      F51
+     B9073         C2018 11 02.43221603 03 51.541+03 55 40.27         17.6 R      F51
+     B9073         C2018 11 02.44572503 03 50.728+03 55 34.18         17.7 R      F51
+     B9073         C2018 11 02.45916303 03 49.911+03 55 28.01         17.7 R      F51
+
+
+----- end -----
