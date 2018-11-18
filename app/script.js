@@ -1,4 +1,4 @@
-require('amcharts3');
+// require('amcharts3');
 
 /**
  * Create the chart
@@ -79,3 +79,40 @@ var chart = AmCharts.makeChart('chartdiv', {
     ],
     categoryField: 'country',
 });
+runCode();
+
+async function runCode() {
+    const fileContent = await getTextFileContent();
+    readFile(fileContent);
+}
+
+async function getTextFileContent() {
+    const base = 'https://raw.githubusercontent.com/';
+    const userName = 'sankhaKarunasekara';
+    const repo = '/ULKA_Project';
+    const path = '/gh-pages/Reports_Submitted/';
+    const fileName = 'ps2-20181101_3_set018.txt';
+    const url = base + userName + repo + path + fileName;
+
+    const response = await fetch(url);
+    let fileContent = await response.text();
+
+    return fileContent;
+}
+
+function readFile(fileContent) {
+    const arrayOfLines = fileContent.split('\n');
+    const imageSetName;
+    const MPCEntries = [];
+	// https://bl.ocks.org/HarryStevens/be559bed98d662f69e68fc8a7e0ad097
+    try {
+        let [tempImageSet] = arrayOfLines.filter(
+            line => line.includes('Image Set') || line.includes('Image set')
+		);
+
+		imageSetName = tempImageSet.trim();
+		
+    } catch (e) {
+        alert('Your report has a problem' + e);
+    }
+}
