@@ -12,6 +12,7 @@ S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala (U
 1. Image set folder: http://iasc.hsutx.edu/iasc/international/IASC_103/
 2. Discoveries & Observations update: http://iasc.hsutx.edu/iasc/discover.html
 3. Minor planet center report spec: https://minorplanetcenter.net//iau/info/OpticalObs.html
+4. Astrometrica FAQ: http://wise.ssl.berkeley.edu/documents/IASC%20FAQ.pdf
 
 ## Project Structure
 
