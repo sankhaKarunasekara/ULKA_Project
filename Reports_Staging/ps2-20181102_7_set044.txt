@@ -2,12 +2,12 @@ COD F51
 OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
 MEA S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala (ULKA, Sri Lanka)
 TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
-ACK MPCReport file updated 2018.11.14 23:43:41
+ACK MPCReport file updated 2018.11.20 13:23:13
 NET PPMXL
 
- Image Set ps2-20181102_4_set044
+ Image Set ps2-20181102_7_set044
 
-	K14V27K  C2018 11 02.41866403 02 47.627+03 54 37.22         19.2 R      F51
+     K14V27K  C2018 11 02.41866403 02 47.627+03 54 37.22         19.2 R      F51
      K14V27K  C2018 11 02.43221603 02 46.622+03 54 41.62         19.1 R      F51
      K14V27K  C2018 11 02.44572503 02 45.640+03 54 45.91         19.6 R      F51
      K14V27K  C2018 11 02.45916303 02 44.687+03 54 50.48         19.5 R      F51
@@ -15,4 +15,8 @@ NET PPMXL
      K17E01N  C2018 11 02.43221603 03 26.511+03 51 57.87         19.3 R      F51
      K17E01N  C2018 11 02.44572503 03 24.958+03 52 09.71         19.4 R      F51
      K17E01N  C2018 11 02.45916303 03 23.412+03 52 21.58         19.2 R      F51
+     ULK0021  C2018 11 02.41866403 03 12.332+03 49 52.23         19.5 R      F51
+     ULK0021  C2018 11 02.43221603 03 12.358+03 49 52.44         20.4 R      F51
+     ULK0021  C2018 11 02.44572503 03 12.380+03 49 52.50         20.2 R      F51
+     ULK0021  C2018 11 02.45916303 03 12.416+03 49 52.46         20.4 R      F51
 ----- end -----
