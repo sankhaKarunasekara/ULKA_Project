@@ -1,12 +1,9 @@
 COD F51
 OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
-MEA S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala (ULKA, Sri Lanka)
+MEA T. Vorobjov, PS1 Science Consortium
 TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
 ACK MPCReport file updated 2018.11.20 17:09:33
 NET PPMXL
-
- Image Set ps2-20181106_1_set163
-
      ULK0001  C2018 11 06.33268302 54 12.212+19 25 38.67         19.6 R      F51
      ULK0001  C2018 11 06.34693402 54 11.325+19 25 37.18         20.5 R      F51
      ULK0001  C2018 11 06.36116802 54 10.420+19 25 35.47         20.4 R      F51
