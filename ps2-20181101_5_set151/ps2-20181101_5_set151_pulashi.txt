@@ -1,4 +1,9 @@
-git account
-create a file
-how to upload a file
-change the staging report
+COD F51
+OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
+MEA T. Vorobjov, PS1 Science Consortium
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2018.11.10 18:39:32
+NET PPMXL
+     
+No moving objects detected
+----- end -----
