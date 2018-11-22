@@ -6,6 +6,4 @@ ACK MPCReport file updated 2018.11.10 18:39:32
 NET PPMXL
      
 No moving objects detected
-
-(image set date 7-11-2018)
 ----- end -----
