@@ -1,0 +1,18 @@
+COD F51
+OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
+MEA S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala (ULKA, Sri Lanka)
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2018.11.23 20:45:56
+NET PPMXL
+
+ Image Set ps2-20181108_4_set088
+
+     ULK0001  C2018 11 08.51391803 13 29.022+21 25 22.18         19.1 R      F51
+     ULK0001  C2018 11 08.52817003 13 28.314+21 25 15.36         19.1 R      F51
+     ULK0001  C2018 11 08.54248503 13 27.606+21 25 08.89         19.0 R      F51
+     ULK0001  C2018 11 08.55674703 13 26.891+21 25 02.18         19.0 R      F51
+     ULK0002  C2018 11 08.51391803 13 23.513+21 24 11.89         19.6 R      F51
+     ULK0002  C2018 11 08.52817003 13 22.599+21 24 10.41         20.7 R      F51
+     ULK0002  C2018 11 08.54248503 13 21.667+21 24 08.24         20.8 R      F51
+     ULK0002  C2018 11 08.55674703 13 20.734+21 24 07.37         19.8 R      F51
+----- end -----
