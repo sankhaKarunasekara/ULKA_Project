@@ -1,9 +1,12 @@
 COD F51
 OBS J. Bulger, T. Dukes, T. Lowe, A. Schultz, M. Willman
-MEA Sithum Gunarathne
+MEA S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila (ULKA, Sri Lanka)
 TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
 ACK MPCReport file updated 2018.11.23 00:08:54
 NET PPMXL
+
+ Image Set ps2-20181108_4_set089
+
      ULK0001  C2018 11 08.51391803 13 08.640+21 40 00.88         19.6 R      F51
      ULK0001  C2018 11 08.52817003 13 07.695+21 39 54.93         19.6 R      F51
      ULK0001  C2018 11 08.54248503 13 06.754+21 39 48.93         19.5 R      F51
