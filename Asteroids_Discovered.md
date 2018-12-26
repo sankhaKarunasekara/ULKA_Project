@@ -1,7 +1,5 @@
 ## Asteroids
 
-### Astroids Found
-
 `1. P20JUNn S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0005`
 
 `2. P20JUOG S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0006`
