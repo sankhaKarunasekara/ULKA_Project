@@ -34,3 +34,25 @@ MPC reports that are currenlty processing in order to submit.
 ### Reports_Submitted
 
 MPC reports already submitted for the evaluation.
+
+### Astroids Found
+P20JUNn S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0005
+P20JUOG S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0006
+P20JUSB S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0007
+P20JUTL S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0002
+P20JUTm S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0003
+P20JVj2 S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjala ULKA Sri Lanka Preliminary 11/01/18 ULK0001
+
+P20JWJv S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/02/18 ULK0044
+P20JYJg S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala ULKA Sri Lanka Preliminary 11/02/18 ULK0010
+P20JYXs S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Dulanjala ULKA Sri Lanka Preliminary 11/02/18 ULK0020
+
+P20K3E6 S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/06/18 ULK0024
+P20K4sn S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/06/18 ULK0025
+P20K4wP S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/06/18 ULK0026
+
+P20K9KO S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/08/18 ULK0033
+P20K9Ln S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/08/18 ULK0001
+P20K9Lp S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/08/18 ULK0048
+P20K9Vg S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & N. Dulanjila ULKA Sri Lanka Preliminary 11/08/18 ULK0047
+
