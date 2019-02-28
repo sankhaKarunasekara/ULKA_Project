@@ -31,7 +31,7 @@ Since we are some what experiance in this we don't need to rename the discovery 
    |5 | Sama | `ULK-15**`|
 
 * Remaining two digits should represent the new moving object number let's go from 01 to 99.
-* Please keep track of your Ojbects count, don't repeat yourself. 
+* Please keep track of your object count, don't repeat yourself. 
 
 * Ex: 
    Amila's 1st discovery in this campain should be named as: `ULK-1301`  
