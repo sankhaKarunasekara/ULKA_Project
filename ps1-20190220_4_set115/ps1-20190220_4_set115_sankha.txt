@@ -1,6 +1,6 @@
 COD F51
 OBS J. Bulger, T. Lowe, A. Schultz, M. Willman
-MEA T. Vorobjov, PS1 Science Consortium
+MEA S. Karunasekara
 TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
 ACK MPCReport file updated 2019.02.28 21:55:00
 NET UCAC-4
