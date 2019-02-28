@@ -19,9 +19,11 @@ S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Mayadunne (U
 
 Since we are some what experiance in this we don't need to rename the discovery after naming it from `ULK-0001`.
 
-* Since this is our 2nd time let's use `ULK-1***` as our naming convention. 1st digit represents the campaign. (note - first time we used 'ULK-0***').
+* Since this is our 2nd time let's use `ULK-1***` as our naming convention. 1st digit represents the campaign. (note - first time we used `ULK-0***`).
 * Form second digit lets identify ourselfs, 
-   
+  
+ # | Member | Convention  
+---------------------------
    1) | Sankha | `ULK-11**`
    2) | Sithum | `ULK-12**`
    3) | Pulasthi | `ULK-13**`
