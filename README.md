@@ -33,7 +33,7 @@ Since we are some what experiance in this we don't need to rename the discovery 
 * Remaining two digits should represent the new moving object number let's go from 01 to 99.
 * Keep track of your number please don't repeat same number twice. 
 
-Ex: 
+* Ex: 
    Amila's 1st discovery in this campain should be named as: `ULK-1301`  
    Sithum's 5th discovery in this campain should be named as: `ULK-1205`
 
