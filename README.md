@@ -7,7 +7,7 @@ main belt asteroid finding campaign by International Asteroid Search Campaign (I
 
 S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Mayadunne (ULKA, Sri Lanka)
 
-## useful links
+## Useful links
 
 1. Image set folder: http://iasc.hsutx.edu/iasc/international/IASC_89/
 2. Discoveries & Observations update: http://iasc.hsutx.edu/iasc/discover.html
