@@ -22,13 +22,13 @@ Since we are some what experiance in this we don't need to rename the discovery 
 * Since this is our 2nd time let's use `ULK-1***` as our naming convention. 1st digit represents the campaign. (note - first time we used `ULK-0***`).
 * Form second digit lets identify ourselfs, 
   
- # | Member | Convention  
-|--|--------|------------|
-   1) | Sankha | `ULK-11**`
-   2) | Sithum | `ULK-12**`
-   3) | Pulasthi | `ULK-13**`
-   4) | Amila | `ULK-14**`
-   5) | Sama | `ULK-15**`
+   | # | Member | Convention |
+   |--|--------|------------ |
+   |1 | Sankha | `ULK-11**` |
+   |2 | Sithum | `ULK-12**` |
+   |3 | Pulasthi | `ULK-13**`|
+   |4 | Amila | `ULK-14**`|
+   |5 | Sama | `ULK-15**`|
 
 * Remaining two digits should represent the new moving object number let's go from 01 to 99.
 * Keep track of your number please don't repeat same number twice. 
