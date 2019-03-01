@@ -34,7 +34,7 @@ Since we are some what experiance in this we don't need to rename the discovery 
 * Please keep track of your object count, don't repeat yourself. 
 
 * Ex: 
-   Amila's 1st discovery in this campain should be named as: `ULK-1301`  
+   Amila's 1st discovery in this campain should be named as: `ULK-1401`  
    Sithum's 5th discovery in this campain should be named as: `ULK-1205`
 
 ## Project Structure
@@ -58,3 +58,5 @@ MPC reports that are currenlty processing in order to submit.
 MPC reports already submitted for the evaluation.
 
 ### Astroids Found
+
+Not yet. 
