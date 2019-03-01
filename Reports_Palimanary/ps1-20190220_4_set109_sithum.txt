@@ -1,0 +1,17 @@
+COD F51
+OBS J. Bulger, T. Lowe, A. Schultz, M. Willman
+MEA S. Gunarathne, S. Mayadunne
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2019.03.02 00:03:53
+NET PPMXL
+D0577         C2019 01 23.22624400 40 35.762+04 15 54.45         20.0 R      F51
+D0577         C2019 01 23.23139800 40 36.240+04 15 57.95         19.9 R      F51
+D0577         C2019 01 23.23654700 40 36.703+04 16 01.40         20.1 R      F51
+D0577         C2019 01 23.24171200 40 37.186+04 16 04.87         20.0 R      F51
+----- end -----
+
+no new moving objects detected
+
+ps1-20190220_4_set109_sithum.txt
+
+
