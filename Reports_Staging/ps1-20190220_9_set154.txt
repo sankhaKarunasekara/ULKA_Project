@@ -5,7 +5,7 @@ TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
 ACK MPCReport file updated 2019.03.05 01:51:45
 NET UCAC-4
 
-Image Set ps1-20190220_9_set154
+Image set ps1-20190220_9_set154
 
 No moving objects detected.
 ----- end -----

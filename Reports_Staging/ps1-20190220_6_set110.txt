@@ -7,6 +7,6 @@ NET PPMXL
 
 Image set ps1-20190220_6_set110
 
-no moving objects detected.
+No moving objects detected.
 ----- end -----
 
