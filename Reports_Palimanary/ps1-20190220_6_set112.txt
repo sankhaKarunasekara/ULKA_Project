@@ -1,0 +1,14 @@
+COD F51
+OBS J. Bulger, T. Lowe, A. Schultz, M. Willman
+MEA S. Gunarathne, S. Mayadunne
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2019.03.02 18:23:18
+NET PPMXL
+
+Image set ps1-20190220_6_set112
+
+S1839         C2019 02 04.23082800 56 45.289-04 50 46.56         21.6 R      F51
+S1839         C2019 02 04.23597000 56 45.662-04 50 43.39         21.0 R      F51
+S1839         C2019 02 04.24111800 56 45.998-04 50 40.36         21.6 R      F51
+S1839         C2019 02 04.24626100 56 46.298-04 50 37.99         21.8 R      F51
+----- end -----
