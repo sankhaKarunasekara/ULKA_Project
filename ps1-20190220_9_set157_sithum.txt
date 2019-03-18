@@ -1,0 +1,15 @@
+COD F51
+OBS J. Bulger, T. Lowe, A. Schultz, M. Willman
+MEA S. Gunarathne, S. Mayadunne
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2019.03.14 19:44:22
+NET PPMXL
+73927         C2019 02 04.23212300 41 10.180-03 31 48.26         19.8 R      F51
+73927         C2019 02 04.23726000 41 10.610-03 31 44.90         20.2 R      F51
+73927         C2019 02 04.24240000 41 11.032-03 31 41.69         20.3 R      F51
+73927         C2019 02 04.24755000 41 11.441-03 31 37.91         20.0 R      F51
+----- end -----
+
+no new moving objects detected
+
+ps1-20190220_9_set157
