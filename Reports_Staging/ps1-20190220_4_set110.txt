@@ -1,6 +1,6 @@
 COD F51
 OBS J. Bulger, T. Lowe, A. Schultz, M. Willman
-MEA S. Karunasekara (ULKA, Sri Lanka)
+MEA S. Karunasekara, A. Karunarathna (ULKA, Sri Lanka)
 TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
 ACK MPCReport file updated 2019.03.23 09:52:35
 NET PPMXL
