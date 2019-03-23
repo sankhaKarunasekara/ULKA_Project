@@ -57,28 +57,28 @@ MPC reports that are currenlty processing in order to submit.
 
 MPC reports already submitted for the evaluation.
 
-- [x] ps1-20190220_4_set107.txt
-- [x] ps1-20190220_4_set109.txt
-- [x] ps1-20190220_4_set110.txt
-- [x] ps1-20190220_4_set111.txt
-- [x] ps1-20190220_4_set112.txt
-- [x] ps1-20190220_4_set113.txt
-- [x] ps1-20190220_4_set115.txt
+- [x] `ps1-20190220_4_set107.txt`
+- [x] `ps1-20190220_4_set109.txt`
+- [x] `ps1-20190220_4_set110.txt`
+- [x] `ps1-20190220_4_set111.txt`
+- [x] `ps1-20190220_4_set112.txt`
+- [x] `ps1-20190220_4_set113.txt`
+- [x] `ps1-20190220_4_set115.txt`
 
-- [x] ps1-20190220_6_set106.txt
-- [x] ps1-20190220_6_set107.txt
-- [x] ps1-20190220_6_set109.txt
-- [x] ps1-20190220_6_set110.txt
-- [x] ps1-20190220_6_set111.txt
-- [x] ps1-20190220_6_set112.txt
-- [ ] ps1-20190220_6_set113.txt
-- [ ] ps1-20190220_6_set115.txt
+- [x] `ps1-20190220_6_set106.txt`
+- [x] `ps1-20190220_6_set107.txt`
+- [x] `ps1-20190220_6_set109.txt`
+- [x] `ps1-20190220_6_set110.txt`
+- [x] `ps1-20190220_6_set111.txt`
+- [x] `ps1-20190220_6_set112.txt`
+- [x] `ps1-20190220_6_set113.txt`
+- [ ] `ps1-20190220_6_set115.txt`
 
-- [*] ps1-20190220_9_set153.txt
-- [*] ps1-20190220_9_set154.txt
-- [ ] ps1-20190220_9_set155.txt
-- [ ] ps1-20190220_9_set156.txt
-- [ ] ps1-20190220_9_set157.txt
+- [x] `ps1-20190220_9_set153.txt`
+- [x] `ps1-20190220_9_set154.txt`
+- [ ] `ps1-20190220_9_set155.txt`
+- [ ] `ps1-20190220_9_set156.txt`
+- [ ] `ps1-20190220_9_set157.txt`
 
 ### Asteroids Found
 
