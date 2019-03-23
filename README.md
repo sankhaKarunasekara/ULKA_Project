@@ -77,9 +77,9 @@ MPC reports already submitted for the evaluation.
 - [x] `ps1-20190220_9_set153.txt`
 - [x] `ps1-20190220_9_set154.txt`
 - [x] `ps1-20190220_9_set155.txt`
-- [ ] `ps1-20190220_9_set156.txt`
+- [x] `ps1-20190220_9_set156.txt`
 - [x] `ps1-20190220_9_set157.txt`
 
 ### Asteroids Found
 
-Not yet.
+None. 
