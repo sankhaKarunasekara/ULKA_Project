@@ -59,9 +59,9 @@ MPC reports already submitted for the evaluation.
 
 [*] ps1-20190220_4_set107.txt
 [*] ps1-20190220_4_set109.txt
-[-] ps1-20190220_4_set110.txt
-[-] ps1-20190220_4_set111.txt
-[-] ps1-20190220_4_set112.txt
+[*] ps1-20190220_4_set110.txt
+[*] ps1-20190220_4_set111.txt
+[*] ps1-20190220_4_set112.txt
 [*] ps1-20190220_4_set113.txt
 [*] ps1-20190220_4_set115.txt
 
