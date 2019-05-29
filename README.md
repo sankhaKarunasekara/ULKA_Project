@@ -17,25 +17,25 @@ S. Karunasekara, S. Gunarathna, P. Kanatthage, A. Karunarathna & S. Mayadunne (U
 
 ## Naming Convention
 
-Since we are some what experiance in this we don't need to rename the discovery after naming it from `ULK-0001`.
+Since we are some what experiance in this we don't need to rename the discovery after naming it from `ULK0001`.
 
-* Since this is our 2nd time let's use `ULK-1***` as our naming convention. 1st digit represents the campaign. (note - first time we used `ULK-0***`).
+* Since this is our 2nd time let's use `ULK1***` as our naming convention. 1st digit represents the campaign. (note - first time we used `ULK0***`).
 * Form second digit lets identify ourselfs, 
   
    | # | Member | Convention |
    |--|--------|------------ |
-   |1 | Sankha | `ULK-11**` |
-   |2 | Sithum | `ULK-12**` |
-   |3 | Pulasthi | `ULK-13**`|
-   |4 | Amila | `ULK-14**`|
-   |5 | Sama | `ULK-15**`|
+   |1 | Sankha | `ULK11**` |
+   |2 | Sithum | `ULK12**` |
+   |3 | Pulasthi | `ULK13**`|
+   |4 | Amila | `ULK14**`|
+   |5 | Sama | `ULK15**`|
 
 * Remaining two digits should represent the new moving object number let's go from 01 to 99.
 * Please keep track of your object count, don't repeat yourself. 
 
 * Ex: 
-   Amila's 1st discovery in this campain should be named as: `ULK-1401`  
-   Sithum's 5th discovery in this campain should be named as: `ULK-1205`
+   Amila's 1st discovery in this campain should be named as: `ULK1401`  
+   Sithum's 5th discovery in this campain should be named as: `ULK1205`
 
 ## Project Structure
 
@@ -72,7 +72,7 @@ MPC reports already submitted for the evaluation.
 - [x] `ps1-20190220_6_set111.txt`
 - [x] `ps1-20190220_6_set112.txt`
 - [x] `ps1-20190220_6_set113.txt`
-- [ ] `ps1-20190220_6_set115.txt`
+- [x] `ps1-20190220_6_set115.txt`
 
 - [x] `ps1-20190220_9_set153.txt`
 - [x] `ps1-20190220_9_set154.txt`
